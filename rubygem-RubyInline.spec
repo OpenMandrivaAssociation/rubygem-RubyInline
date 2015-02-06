@@ -2,7 +2,7 @@
 
 Name:       rubygem-%{oname}
 Version:    3.8.6
-Release:    %mkrel 1
+Release:    2
 Summary:    Inline allows you to write foreign code within your ruby code
 Group:      Development/Ruby
 License:    MIT

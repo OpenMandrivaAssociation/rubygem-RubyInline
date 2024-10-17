@@ -6,7 +6,7 @@ Release:    2
 Summary:    Inline allows you to write foreign code within your ruby code
 Group:      Development/Ruby
 License:    MIT
-URL:        http://rubyforge.org/projects/rubyinline/
+URL:        https://rubyforge.org/projects/rubyinline/
 Source0:    http://rubygems.org/gems/%{oname}-%{version}.gem
 BuildRoot:  %{_tmppath}/%{name}-%{version}-%{release}
 Requires:   rubygems
